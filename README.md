@@ -24,7 +24,7 @@
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@yossefadel](https://twitter.com/youssefadel1998);
-- 📝 [Resume](https://drive.google.com/file/d/1cPZ0n69XFAJPdJ2yV1fUwq4YK415BmQa/view?usp=sharing);
+- 📝 [Resume](https://drive.google.com/file/d/1lslH6uMm1glPuOaJn13qSCuXrzDw4rNg/view?usp=sharing);
 
 <br>
 
