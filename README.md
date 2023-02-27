@@ -10,10 +10,6 @@
 <a href="https://www.linkedin.com/in/youssef-adel-b5b34a124/">
   <img align="left" alt="Yossef's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/youssef.adel.100">
-  <img align="left" alt="Youssef's Faceook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
-<br>
 <br>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -24,7 +20,7 @@
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@yossefadel](https://twitter.com/youssefadel1998);
-- 📝 [Resume](https://drive.google.com/file/d/1bF2bnElBxGx-Mrd0LcspDE5ZprNuxgo-/view?usp=sharing);
+- 📝 [Resume](https://drive.google.com/file/d/1XNGMO55PbHJvt7ADrEs95QDsxua1VNvp/view?usp=sharing);
 <a href="https://www.youtube.com/watch?v=4S8HchXQy9I&list=PLvxzwatD4R_frSRMbrZhFWFWIP5E3vzxC&ab_channel=YoussefAdel">
   <img align="left" alt="Youssef's Faceook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
   Some Simple Games 
@@ -52,7 +48,7 @@
 ```javascript
 const joe = {
   pronouns: "he" | "him",
-  languages_and_frameworks: [Node.js, Mongodb, SQL, Docker, Javascript, HTML, CSS, Python],
+  languages_and_frameworks: [Node.js, Mongodb, SQL, Docker, Javascript, HTML, CSS, Nest.js],
   tools: [Koa, Express, socket.io, rxjs, TensorFlow, Keras, Resnet, VGGNET],
   architecture: ["monolithic", "event-driven", "design system pattern"]
 }
