@@ -1,14 +1,8 @@
 ### 👋 Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/> , I'm Youssef Adel 👨‍💻
-<br>
 
-<a href="https://discord.gg/D2CjYkjb">
-  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/youssefadel1998">
-  <img align="left" alt="Yossef Adel | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/youssef-adel-b5b34a124/">
-  <img align="left" alt="Yossef's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Yossef's LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" />
 </a>
 <br>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -20,16 +14,14 @@
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@yossefadel](https://twitter.com/youssefadel1998);
-- 📝 [Resume](https://drive.google.com/file/d/1XNGMO55PbHJvt7ADrEs95QDsxua1VNvp/view?usp=sharing);
+- 📝 [Resume](https://drive.google.com/file/d/1CscDxI8c43oNLyVAXtdpiMykTW_67yJ5/view?usp=sharing);
 <a href="https://www.youtube.com/watch?v=4S8HchXQy9I&list=PLvxzwatD4R_frSRMbrZhFWFWIP5E3vzxC&ab_channel=YoussefAdel">
-  <img align="left" alt="Youssef's Faceook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="Youssef's Youtube" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" />
   Some Simple Games 
 </a> 
 
 
 <br>
-
-
 <br>
 
 **Languages and Tools:**  
@@ -48,9 +40,11 @@
 ```javascript
 const joe = {
   pronouns: "he" | "him",
-  languages_and_frameworks: [Node.js, Mongodb, SQL, Docker, Javascript, HTML, CSS, Nest.js],
-  tools: [Koa, Express, socket.io, rxjs, TensorFlow, Keras, Resnet, VGGNET],
-  architecture: ["monolithic", "event-driven", "design system pattern"]
+  languages_and_frameworks: [Node.js, Javascript, HTML, CSS, Nest.js],
+  tools: [Koa, Express, socket.io, ElasticSearch, Rabbitmq, TensorFlow, Keras, Resnet, VGGNET],
+  architecture: ["monolithic", "event-driven", "design system pattern", "MicroService"],
+  devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+  databases: ["mongo", "MySql"],
 }
 ```
 <br>
